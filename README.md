@@ -1,4 +1,4 @@
-Sometime in late 2025 an update (Either to steam or to the Swtich 2 Controller Firmware, I can't be arsed to find out) broke steam-input for the Switch 2 Pro Controller over USB. This simple script will fix it.  
+Sometime in late 2025 an update (Either to steam or to the Switch 2 Pro Controller Firmware) broke steam-input for the Switch 2 Pro Controller over USB. This simple script will fix it.  
 I've additionally included a .desktop file for ease of use, since on immutable distributions it will need to be run at each boot.
 
 

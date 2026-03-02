@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment[en_US]=Simple script to fix pro controller over usb with steam
+Comment=
+Exec=pkexec "/var/home/$USER/.scripts/fixSwitch2ProCon.sh"
+GenericName[en_US]=
+GenericName=
+Icon=system-run
+MimeType=
+Name[en_US]=Fix Switch 2 Pro Controller
+Name=Fix Switch 2 Pro Controller
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
